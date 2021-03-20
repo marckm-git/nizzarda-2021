@@ -1,7 +1,7 @@
 {
-  "name": "netlify-drop-demo-site-master",
+  "name": "nizzarda.xyz",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.html",
   "repository": "git@github.com:marckm-git/nizzarda-2021.git",
   "author": "marckm-git <marckm.mm@gmail.com>",
   "license": "MIT",

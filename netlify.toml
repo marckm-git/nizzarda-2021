@@ -1,0 +1,5 @@
+# esempio 
+
+[build]
+# command = "yarn run build"
+publish = "dist"

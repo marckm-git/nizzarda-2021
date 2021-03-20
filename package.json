@@ -6,7 +6,8 @@
   "author": "marckm-git <marckm.mm@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "parcel": "^2.0.0-beta.2"
+    "parcel": "^2.0.0-beta.2",
+    "parcel-bundler": "^1.12.5"
   },
   "dependencies": {
     "react": "^17.0.1",
@@ -15,5 +16,6 @@
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html"
-  }
+  },
+  "description": "nizza va verso le stelle"
 }
